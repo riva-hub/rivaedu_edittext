@@ -1,0 +1,1 @@
+# rivaedu_edittext
